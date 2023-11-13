@@ -5,11 +5,18 @@ FloodItWorld is a Java-based puzzle game inspired by the classic Flood-It. The g
 
 # Features
 Dynamic Board Generation: The board is randomly generated with a specified size and number of colors.
+
 Configurable Difficulty: Players can set the board size and the number of colors, which affects the game's difficulty.
+
 Color Flooding Mechanism: Clicking a non-flooded cell changes the color of the flooded area to that cell's color, expanding the flooded area.
+
 Attempt Limitation: The game imposes a maximum number of attempts, adding a strategic challenge.
+
 Reset Functionality: Players can reset the game at any point.
+
 End Game Scenarios: The game ends when either the entire board is flooded with one color or the player runs out of attempts.
+
+
 # Classes and Interfaces
 Main Classes
 FloodItWorld: Extends World, representing the game's main logic and display.
