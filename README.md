@@ -1,3 +1,9 @@
+
+![Screen Recording 2024-01-10 at 10 10 09 AM](https://github.com/BenoitSchiermeier/MazeGame/assets/132936530/a8a3ccd7-5ea1-4605-98e5-aa5001995161)
+
+
+
+
 # MazeGame
 
 # Overview
