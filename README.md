@@ -1,5 +1,5 @@
 
-![Screen Recording 2024-01-10 at 10 10 09 AM](https://github.com/BenoitSchiermeier/MazeGame/assets/132936530/a8a3ccd7-5ea1-4605-98e5-aa5001995161)
+![Screen Recording 2024-01-10 at 10 10 09 AM 2](https://github.com/BenoitSchiermeier/MazeGame/assets/132936530/7577a7b3-1118-4edf-8d05-8301d83b842b)
 
 
 
